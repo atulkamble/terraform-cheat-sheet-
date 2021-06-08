@@ -5,7 +5,6 @@ No need to run in terror from Terraform. Close that search engine tab and check 
 
 # Terraform Command Lines
 
-### Terraform Command Lines
 - Terraform CLI tricks
 ```markdown terraform -install-autocomplete``` #Setup tab auto-completion, requires logging back in
 
